@@ -25,7 +25,12 @@
     /* align-content: space-between;
     align-content: space-evenly; */
 
-    place-content: center;
+    /* place-content: center; */
+
+    /* justify-items: center;
+    align-items: center; */
+
+    place-items: center;
 
 }
 
